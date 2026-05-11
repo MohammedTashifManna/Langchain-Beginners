@@ -6,7 +6,8 @@ Original Code Link : https://www.kaggle.com/code/youssef19/understanding-langcha
 Install the packages using the below command
 uv add -r .\requirements.txt
 
-Create the .env file and paste your Groq API key with the variable name mentioned below
+Create the .env file and paste your Groq API key with the variable name mentioned below:
+
 GROQ_API_KEY="Enter your API Key Here"
 
 run the main.py file code.
