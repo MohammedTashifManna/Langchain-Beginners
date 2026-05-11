@@ -13,4 +13,4 @@ Create the .env file and paste your Groq API key with the variable name mentione
 GROQ_API_KEY="Enter your API Key Here"
 
 
-run the main.py file code.
+Run the main.py file code.
